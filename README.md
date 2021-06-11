@@ -48,7 +48,9 @@ So my account name is IMOKURI.
 
 #### Recent Activity
 
-- 2020/12: AWS SAA
+- 2020/12: AWS Certified Solutions Architect - Associate (AWS SAA)
+- 2021/06: Microsoft Certified Azure Administrator Associate (AZ-104)
+
 
 [![Yoshio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOKURI&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
