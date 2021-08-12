@@ -21,14 +21,9 @@ So my account name is IMOKURI.
 #### Favorite
 
 - Ansible
-- Jenkins
-- DevOps, CI/CD
-
-#### Challenge
-
-- ML, DL, Kaggle
 - Kubernetes
-- Cloud
+- Machine Learning, Deep Learning
+- DevOps, CI/CD
 
 #### Programming
 
@@ -41,8 +36,10 @@ So my account name is IMOKURI.
 
 #### Hobby
 
+- Kaggle
 - Ski
 - Shogi (Japanese famous board game like chess)
+- Bon Odori (Japanese traditional dance in festival)
 - [Project Euler](https://projecteuler.net/progress=IMOKURI)
 
 #### Recent Activity
