@@ -51,6 +51,11 @@ So my account name is IMOKURI.
 - 2021/08: Kaggle, Hungry Geese - [4th place solution](https://www.kaggle.com/c/hungry-geese/discussion/263690) 🥇
 - 2021/08: Kaggle, Competitions Expert <img src="https://www.kaggle.com/static/images/tiers/expert@48.png" width="16px">
 
+#### Stats
 
 [![Yoshio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOKURI&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+##### Kaggle
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMOKURI/competition/light)
 
