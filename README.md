@@ -28,6 +28,7 @@ So my account name is IMOKURI.
 #### Programming
 
 - Python
+- Lua
 
 #### Editor
 
