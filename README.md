@@ -43,15 +43,6 @@ So my account name is IMOKURI.
 - Bon Odori (Japanese traditional dance in festival)
 - [Project Euler](https://projecteuler.net/progress=IMOKURI)
 
-#### Recent Activity
-
-- 2020/12: AWS Certified Solutions Architect - Associate (AWS SAA)
-- 2021/02: Kaggle, Cassava Leaf Disease Classification - [Private 28th, Public 8th](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220599) 🥈
-- 2021/06: Microsoft Certified Azure Administrator Associate (AZ-104)
-- 2021/06: Kaggle, Hungry Geese - [Congratulations to our Month 5 Winners - Goose luck!](https://www.kaggle.com/c/hungry-geese/discussion/248986)
-- 2021/08: Kaggle, Hungry Geese - [4th place solution](https://www.kaggle.com/c/hungry-geese/discussion/263690) 🥇
-- 2021/08: Kaggle, Competitions Expert <img src="https://www.kaggle.com/static/images/tiers/expert@48.png" width="16px">
-
 #### Stats
 
 [![Yoshio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOKURI&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
