@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sugiyama, Yoshio
+I'm SUGIYAMA Yoshio - 杉山 禎夫
 
 
 I'm an infrastructure engineer with Hewlett-Packard Japan.
@@ -15,12 +15,14 @@ So my account name is IMOKURI.
 
 手を動かして、いろいろ検証することが好きで、いろいろな技術をかじっています。
 
+世の中の変化を汲み取り、技術を正しくキャッチアップし（メリット・デメリットを理解し）、 利用する（顧客に届ける）ことができるエンジニアでありたいです。
+
 小さい頃からさつまいもとくりが好きです。なので IMOKURI。
 
 
 #### Favorite
 
-- Kubernetes
+- Kubernetes, OpenShift
 - Machine Learning, Deep Learning
 - Ansible
 - DevOps, CI/CD
@@ -51,4 +53,3 @@ So my account name is IMOKURI.
 ##### Kaggle
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMOKURI/competition/light)
-
