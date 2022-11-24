@@ -7,9 +7,6 @@ I'm an infrastructure / ML engineer with Hewlett-Packard Japan.
 
 I like Neovim.
 
-I have loved sweet potatoes (IMO in Japanese) and chestnuts (KURI in Japanese) since I was a child.
-So my account name is IMOKURI.
-
 
 日本ヒューレット・パッカードでインフラエンジニアをしています。
 
@@ -45,7 +42,7 @@ So my account name is IMOKURI.
 - Bon Odori (Japanese traditional dance in festival)
 - [Project Euler](https://projecteuler.net/progress=IMOKURI)
 
-#### Stats
+#### Stat
 
 [![Yoshio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOKURI&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMOKURI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
