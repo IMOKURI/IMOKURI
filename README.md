@@ -5,8 +5,6 @@ I'm SUGIYAMA Yoshio - 杉山 禎夫
 
 I'm an infrastructure / ML engineer with Hewlett-Packard Japan.
 
-I like Neovim.
-
 
 日本ヒューレット・パッカードでインフラ/機械学習エンジニアをしています。
 
@@ -19,15 +17,15 @@ I like Neovim.
 
 #### Favorite
 
-- Kubernetes, OpenShift
 - Machine Learning, Deep Learning
+- Data Management
+- Kubernetes, OpenShift
 - Ansible
 - DevOps, CI/CD
 
 #### Programming
 
 - Python
-- Lua
 
 #### Editor
 
@@ -36,17 +34,12 @@ I like Neovim.
 
 #### Hobby
 
-- Kaggle
 - Ski
-- Shogi (Japanese famous board game like chess)
-- Bon Odori (Japanese traditional dance in festival)
-- [Project Euler](https://projecteuler.net/progress=IMOKURI)
+- Kaggle
+- Quiz
 
 #### Stat
 
 [![Yoshio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOKURI&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMOKURI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-##### Kaggle
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/IMOKURI/competition/light)
