@@ -29,5 +29,6 @@ I'm an infrastructure / ML engineer with Hewlett-Packard Japan.
 
 #### Stat
 
+[![Kaggle Badge]](./kaggle-badges/CompetitionsRank/plastic-black.svg)
 [![Yoshio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOKURI&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMOKURI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
