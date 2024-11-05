@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-I'm SUGIYAMA Yoshio - 杉山 禎夫
+I'm Yoshio Sugiyama - 杉山 禎夫
 
 I'm an infrastructure / ML engineer with Hewlett-Packard Japan.
 
 日本ヒューレット・パッカードでインフラ/機械学習エンジニアをしています。
 
-手を動かして、いろいろ検証することが好きで、いろいろな技術をかじっています。
-世の中の変化を汲み取り、技術を正しくキャッチアップし（メリット・デメリットを理解し）、 利用する（顧客に届ける）ことができるエンジニアでありたいです。
-
-小さい頃からさつまいもとくりが好きです。なので IMOKURI。
+さつまいもとくりが好きです。
 
 #### Favorite
 
