@@ -2,27 +2,28 @@
 
 I'm Yoshio Sugiyama - 杉山 禎夫
 
-I'm an infrastructure / ML engineer with Hewlett-Packard Japan.
+Applied AI Engineer / AI Platform Engineer at HPE Japan.
 
-日本ヒューレット・パッカードでインフラ/機械学習エンジニアをしています。
+日本ヒューレット・パッカードでインフラ/AIエンジニアをしています。
 
-さつまいもとくりが好きです。
 
-#### Favorite
+#### Skill
 
 - Machine Learning, Deep Learning
 - Data Management
 - Kubernetes, OpenShift
 - Ansible
-- Neovim
 - Python
+- Neovim
 
 #### Hobby
 
 - Ski
-- Kaggle
-- Quiz
+- Futsal
 - Final Fantasy VII
+- Quiz
+- F1
+- Rugby
 
 #### Stat
 
