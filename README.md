@@ -9,10 +9,9 @@ Applied AI Engineer / AI Platform Engineer at HPE Japan.
 
 #### Skill
 
-- Machine Learning, Deep Learning
-- Data Management
+- Machine Learning, Deep Learning, Generative AI
 - Kubernetes, OpenShift
-- Ansible
+- Automation, Ansible
 - Python
 - Neovim
 
@@ -21,9 +20,9 @@ Applied AI Engineer / AI Platform Engineer at HPE Japan.
 - Ski
 - Futsal
 - Final Fantasy VII
-- Quiz
 - F1
 - Rugby
+- Quiz
 
 #### Stat
 
