@@ -1,3 +1,6 @@
+
+[![IMOKURI's Lab](imokuri-lab.png)](https://imokuri.com/)
+
 ### Hi there 👋
 
 I'm Yoshio Sugiyama - 杉山 禎夫
@@ -26,6 +29,6 @@ Applied AI Engineer / AI Platform Engineer at HPE Japan.
 
 #### Stat
 
-![Kaggle Badge](./kaggle-badges/CompetitionsRank/plastic-black.svg)  
-![Yoshio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOKURI&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMOKURI&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IMOKURI&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github.com/IMOKURI)
+
+[![Kaggle Badge](./kaggle-badges/CompetitionsRank/plastic-black.svg)](https://www.kaggle.com/imokuri)
