@@ -31,4 +31,4 @@ Applied AI Engineer / AI Platform Engineer at HPE Japan.
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IMOKURI&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github.com/IMOKURI)
 
-[![Kaggle Badge](./kaggle-badges/CompetitionsRank/plastic-black.svg)](https://www.kaggle.com/imokuri)
+[![Kaggle Badge](./kaggle-badges/CompetitionsRank/plastic-white.svg)](https://www.kaggle.com/imokuri)
